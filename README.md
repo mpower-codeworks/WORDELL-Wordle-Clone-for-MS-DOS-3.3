@@ -16,3 +16,7 @@ handling, rules, and overall presentation remain the same; changes are largely
 limited to screen output and formatting, keyboard input, file access, and a
 small amount of system-specific code needed to build and run on MS-DOS.
 
+Three files are needed to run the program. 'WORDELL.exe', 'ALL5.bin' and 'SOL5.bin'. Player
+stats file 'WORDELL.ini' is automatically created by the program upon each win/lose
+scenario.
+
