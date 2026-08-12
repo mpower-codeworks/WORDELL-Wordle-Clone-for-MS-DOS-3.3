@@ -25,7 +25,7 @@ scenario.
 <table>
     <tr>
         <td align="left" width="50%" valign="middle">
-            <img src="images/windows1b.jpg" width="100%" alt="DOS Mode"><br>
+            <img src="images/windows1c.jpg" width="100%" alt="DOS Mode"><br>
             DOS mode - Identical to Apple II version
         </td>
         <td align="left" width="50%" valign="middle">
