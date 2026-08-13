@@ -2,7 +2,7 @@
 
 <img src="images/logo.jpg" align="left" width="200" alt="Wordell Logo">
 
-Wordell for DOS 3.3 is a Wordle clone written in C. It features
+Wordell for DOS 3.3 is a Wordle clone written in Microsoft C 4.0. It features
 2,315 possible unique games.
 
 DOS 3.3 was chosen as a middle ground: old enough to run on a wide range
