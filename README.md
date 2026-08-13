@@ -45,7 +45,7 @@ scenario.
     </tr>
 </table>
 
-## Building the Souce Code
+## Building the Source Code
 
 Setting up MS C 4.0 is a beast (at least it was for me). I can't type all that out here.
 If you want to build and get stuck, email me and I can look though my setup or I can just
