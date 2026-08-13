@@ -1,0 +1,2 @@
+@ECHO OFF
+CL /AS /Os ERRLOG.C
