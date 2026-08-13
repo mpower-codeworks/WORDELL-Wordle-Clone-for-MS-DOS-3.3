@@ -12,8 +12,8 @@ of machines, while still supporting a future
 Wordell for DOS 3.3 is nearly identical to the
 [Apple II version](https://github.com/mpower-codeworks/WORDELL-Wordle-Clone-for-Apple-II),
 with only the platform-specific portions changed for DOS. The game logic, word
-handling, rules, and overall presentation remain the same; changes are largely
-limited to screen output and formatting, keyboard input, file access, and a
+handling, rules, and overall presentation remain the same. Changes are largely
+limited to screen output/formatting, keyboard input, file access, and a
 small amount of system-specific code needed to build and run on MS-DOS.
 
 Three files are needed to run the program. `WORDELL.exe`, `ALL5.bin` and `SOL5.bin`. Player
